@@ -15,7 +15,7 @@
 8.	Install Postman to test the API (https://www.postman.com/downloads/).
 
 ## Create Project in Meta
-	Create a project in Meta Developer Account to obtain an API Key (Token) and our URL. If you want to see more detail on how to create it, we recommend you consult the following manual:
+Create a project in Meta Developer Account to obtain an API Key (Token) and our URL. If you want to see more detail on how to create it, we recommend you consult the following manual:
     
 
 ## Create ChatGPT/OpenAI Token
