@@ -37,7 +37,6 @@ https://github.com/VitalPBX/chatbot-whatsApp-ChatGPT-with-PHP
 •	**config.php**, global settings such as database connection details, WhatsApp tokens, and ChatGTP.<br>
 •	**dbconextion.php**, database query functions.<br>
 •	**webhook.php**, code that is responsible for handling all requests from WhatsApp.<br>
-•	**Chatbot_WhatsApp-ChatGPT-Api_With_PHP**, the name of this file, where it is explained step by step how to implement this project.<br>
 
 
 
