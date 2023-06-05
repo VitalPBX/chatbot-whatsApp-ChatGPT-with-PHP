@@ -8,8 +8,8 @@ Necessary Resources
 5.	Have a Github account, to keep control of source code (https://desktop.github.com/)
 6.	Install Visual Studio Code (https://code.visualstudio.com/download)
 7.	Add the following extensions in Visual Studio Code:
-    a.	Color Highlight
-    b.	Community Material Theme
-    c.	Material Icon Theme
-    d.	Material Them Icons
+    a.	Color Highlight <br>
+    b.	Community Material Theme <br>
+    c.	Material Icon Theme <br>
+    d.	Material Them Icons<br>
 8.	Install Postman to test the API (https://www.postman.com/downloads/).
