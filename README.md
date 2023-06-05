@@ -1,6 +1,6 @@
 # How to create a ChatBot with WhatsApp and ChatGPT using PHP  
 
-Necessary Resources
+## Necessary Resources
 1.	Meta Developer Account (https://developers.facebook.com/).
 2.	CharGPT Account (https://platform.openai.com/apps).
 3.	Hosting to have a valid domain (FQDN) with certificate.
