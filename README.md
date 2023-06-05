@@ -19,14 +19,14 @@ Create a project in Meta Developer Account to obtain an API Key (Token) and our 
     
 
 ## Create ChatGPT/OpenAI Token
-Enter our OpenAI account and go to:
+Enter our OpenAI account and go to:<br>
 https://platform.openai.com/apps
 
 Then in the upper right side go to our account. Create de API Key. If you want to see more detail on how to create it, we recommend you consult the following manual:
 
 ## Project in PHP to make a Chatbot integrating WhatsApp and ChatGPT
 
-After having the two Tokens we proceed to create our project using Visual Studio Code. We download the complete code in:
+After having the two Tokens we proceed to create our project using Visual Studio Code. We download the complete code in:<br>
 https://github.com/VitalPBX/chatbot-whatsApp-ChatGPT-with-PHP
 
 
