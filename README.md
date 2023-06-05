@@ -31,12 +31,12 @@ https://github.com/VitalPBX/chatbot-whatsApp-ChatGPT-with-PHP
 
 
 ### Project Files
-•	chatbot_database.sql, database where the Chatbot information is stored, for example if a word is received, which must be answered.
-•	chatbot_database_with_data.sql, database where the Chatbot information is stored, for example if a word is received, which must be answered. This database have information.
-•	config.php, global settings such as database connection details, WhatsApp tokens, and ChatGTP.
-•	dbconextion.php, database query functions.
-•	webhook.php, code that is responsible for handling all requests from WhatsApp. 
-•	Chatbot_WhatsApp-ChatGPT-Api_With_PHP, the name of this file, where it is explained step by step how to implement this project.
+•	**chatbot_database.sql**, database where the Chatbot information is stored, for example if a word is received, which must be answered.<br>
+•	**chatbot_database_with_data.sql**, database where the Chatbot information is stored, for example if a word is received, which must be answered. This database have information.<br>
+•	**config.php**, global settings such as database connection details, WhatsApp tokens, and ChatGTP.<br>
+•	**dbconextion.php**, database query functions.<br>
+•	**webhook.php**, code that is responsible for handling all requests from WhatsApp.<br>
+•	**Chatbot_WhatsApp-ChatGPT-Api_With_PHP**, the name of this file, where it is explained step by step how to implement this project.<br>
 
 
 
