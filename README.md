@@ -7,7 +7,7 @@ Necessary Resources
 4.	Install git (https://git-scm.com/downloads).
 5.	Have a Github account, to keep control of source code (https://desktop.github.com/)
 6.	Install Visual Studio Code (https://code.visualstudio.com/download)
-7.	Add the following extensions in Visual Studio Code:
+7.	Add the following extensions in Visual Studio Code:<br>
     a.	Color Highlight <br>
     b.	Community Material Theme <br>
     c.	Material Icon Theme <br>
